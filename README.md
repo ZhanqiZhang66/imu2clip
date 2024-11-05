@@ -1,5 +1,8 @@
 ## IMU2CLIP
 
+
+new edit
+
 This is the code for [IMU2CLIP](https://arxiv.org/abs/2210.14395), a novel pre-training approach to align Inertial Measurement Unit (IMU) motion sensor recordings with video and text, by projecting them into the joint representation space of Contrastive Language-Image Pre-training (CLIP). The proposed approach allows IMU2CLIP to translate human motions (as measured by IMU sensors) into their corresponding textual descriptions and videos -- while preserving the transitivity across these modalities.
 To show the efficacy of the model, we explore several new IMU-based applications that IMU2CLIP enables, such as motion-based media retrieval and natural language reasoning tasks with motion data. In addition, we show that IMU2CLIP can significantly improve the downstream performance when fine-tuned for each application (e.g. activity recognition), demonstrating the universal usage of IMU2CLIP as a new pre-trained resource.
 
